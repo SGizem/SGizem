@@ -6,8 +6,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **CodeBlooms** and my **MekanBul** API.
-- 🌱 I’m currently learning about **LangGraph, RAG systems**, and advanced **White Hat** techniques.
+- 🔭 I’m currently working on **CodeBlooms**.
 - 👯 I’m looking to collaborate on **AI-integrated web applications**.
 - 📫 How to reach me: **orulluoglu.gizem0438@gmail.com**
 - ⚡ Fun fact: I developed an AI app called "Letter From Future" on Hugging Face!
