@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 
 <p align="center">
-  I am a Computer Engineering student and a Full-Stack Developer specializing in the <b>MERN stack</b> and <b>TypeScript</b>. Beyond building scalable and efficient web applications, I have a strong focus on integrating modern technologies into my projects. I am currently diving deep into <b>Artificial Intelligence agents (LangGraph, RAG)</b> and exploring defensive <b>cybersecurity</b> concepts. My ultimate goal is to engineer intelligent, secure, and highly performant software solutions.🚀
+  I am a Computer Engineering student and a Full-Stack Developer specializing in the <b>MERN stack</b> and <b>TypeScript</b>. Beyond building scalable and efficient web applications, I have a strong focus on integrating modern technologies into my projects. I am currently diving deep into <b>Artificial Intelligence agents (LangGraph, RAG)</b> and exploring defensive <b>cybersecurity</b> concepts. My ultimate goal is to engineer intelligent, secure, and highly performant software solutions.✈️
 </p>
 
 ### 🚀 About Me
@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **CodeBlooms** and my **MekanBul** API.
 - 🌱 I’m currently learning about **LangGraph, RAG systems**, and advanced **White Hat** techniques.
 - 👯 I’m looking to collaborate on **AI-integrated web applications**.
-- 💬 Ask me about **React, Node.js, or the Airbus A380**.
 - 📫 How to reach me: **orulluoglu.gizem0438@gmail.com**
 - ⚡ Fun fact: I developed an AI app called "Letter From Future" on Hugging Face!
 
